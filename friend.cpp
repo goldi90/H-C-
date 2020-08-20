@@ -11,6 +11,9 @@ public:
      cout<<"Your number is "<<a<<" + "<<b<<"i"<<endl;
  }
 };
+complex SumComplex(complex o1,complex o2){
+    
+}
 int main(){
     complex c1,c2;
     c1.Setnumber(1,4);
