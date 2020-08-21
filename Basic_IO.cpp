@@ -15,7 +15,7 @@ int main()
    
    int k= num1+num2;
 
-    cout<<"The sum is "<<k<<endl;
+    cout<<"The sum of num1 and num2 "<<k<<endl;
 
     return 0;
 
