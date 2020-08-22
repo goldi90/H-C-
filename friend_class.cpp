@@ -17,9 +17,10 @@ public:
 class complex
 {
     int a, b;
-    friend int calculator ::SumRealComplex(complex o1, complex o2);
-    friend int calculator ::SumComComplex(complex o1, complex o2);
-
+    //individualy decelaration a freind function
+    // friend int calculator ::SumRealComplex(complex o1, complex o2);
+    // friend int calculator ::SumComComplex(complex o1, complex o2);
+friend class calculator;
 public:
     void Setnumber(int n1, int n2)
     {
