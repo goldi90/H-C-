@@ -1,2 +1,2 @@
-cout<<"enter the value of a and b "<<endl;
-// cin>>a>>b;
+friend int calculator ::SumRealComplex(complex o1, complex o2);
+    // friend int calculator ::SumComComplex(complex o1, complex o2);
