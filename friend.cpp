@@ -7,7 +7,7 @@ public:
      a=n1;
      b= n2;
  }
- // declaration of  SumComplex as a friend
+ // declaration of  SumComplex as a friend s
  friend complex SumComplex (complex o1, complex o2);
  
  void GetNumber(){
